@@ -1,0 +1,60 @@
+codigo,asignatura,creditos,semestre
+41CBEX,Fundamentos de Matematicas,4,1
+4CCCS,Catedra RMB,1,1
+114CSIS,Logica y Algoritmos,3,1
+115CSIS,Taller de Programacion,4,1
+35CSOHU,Introduccion al Derecho Constitucional,2,1
+135CDCCU,Comunicacion Oral y Escrita,2,1
+17CSIS,Introduccion a la Computacion,2,1
+140CDCCU,Competencias Comunicativas,2,2
+116CSIS,Desarrollo de Software I,4,2
+118CSIS,Redes de Computo I,4,2
+5CCOP,Optativa I,1,2
+8CBEX,Algebra Lineal,2,2
+117CSIS,Fundamentos de Sistemas de Informacion,2,2
+119CSIS,Taller de Soporte a Servicios y Procesos de Computo,3,2
+33CBEX,Calculo Diferencial,3,3
+14CADM,Estructura Organizacional y Administrativa,2,3
+120CSIS,Desarrollo de Software II,4,3
+121CSIS,Analisis de Requerimientos para Sistemas de Informacion,2,3
+122CSIS,Redes de Computo II,4,3
+123CSIS,Electiva Especifica Tecnologica,3,3
+22CBEX,Estadistica Descriptiva,2,4
+7CCOP,Optativa II,1,4
+124CSIS,Ingenieria de Software,4,4
+125CSIS,Electiva Disciplinar I,3,4
+126CSIS,Sistemas Operativos,3,4
+127CSIS,Administracion de Servicios en Red,4,4
+4CBEX,Calculo Integral,3,5
+7CBEX,Estadistica Inferencial,2,5
+128CSIS,Gestion de Proyectos de Software,3,5
+129CSIS,Bases de Datos,4,5
+130CSIS,Administracion de Redes de Computo Escalables,3,5
+131CSIS,Practica Formativa,3,5
+27CBEX,Ecuaciones Diferenciales,3,6
+32CBEX,Fisica I y Laboratorio,3,6
+121CINV,Investigar en Ingenieria,3,6
+3CSIS,Calidad del Software,3,6
+19CSIS,Administracion de Bases de Datos,3,6
+164CSIS,Electiva Disciplinar II,3,6
+100CBEX,Matematicas Discretas,3,7
+19CBEX,Fisica II y Laboratorio,3,7
+32CSIS,Electronica Digital,3,7
+49CIND,Investigacion de Operaciones,3,7
+120CCON,Contabilidad General,3,7
+160CSIS,Electiva Disciplinar III,3,7
+12CBEX,Metodos Numericos,2,8
+161CSIS,Emprendimiento e Innovacion,2,8
+122CINV,Escribir para Publicar en Ingenieria,1,8
+12CSIS,Gestion de la Seguridad Informatica,3,8
+22CSIS,Inteligencia Artificial,3,8
+5CSIS,Arquitectura de Computadores,2,8
+165CSIS,Electiva Disciplinar IV,3,8
+162CSIS,Seminario de Actualizacion I,2,8
+6CCOP,Optativa III,1,9
+21CDCCU,Etica Profesional,1,9
+25CSIS,Sistemas Distribuidos,3,9
+123CINV,Opcion de Grado de Ingenieria,5,9
+163CSIS,Microprocesadores,3,9
+166CSIS,Electiva Disciplinar V,3,9
+167CSIS,Seminario de Actualizacion II,2,9
